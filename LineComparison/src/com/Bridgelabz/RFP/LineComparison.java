@@ -34,9 +34,9 @@ public class LineComparison {
         System.out.println("First Line Length :- " +firstLineLength);
         System.out.println("Second Line Length :- " +secondLineLength);
         if (firstLineLength==secondLineLength)
-        System.out.println("Both lines are Equal");
+            System.out.println("Both lines are Equal");
         else
-        System.out.println("Lines are not Equal");
+            System.out.println("Lines are not Equal");
     }
 }
 
